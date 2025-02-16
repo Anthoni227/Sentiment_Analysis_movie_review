@@ -4,45 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sentiment Analysis on Movie Reviews</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 20px;
-            background-color: #f9f9f9;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        code {
-            background: #eee;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        pre {
-            background: #333;
-            color: #fff;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-            background: #fff;
-        }
-        table, th, td {
-            border: 1px solid #ddd;
-            text-align: center;
-            padding: 10px;
-        }
-        th {
-            background: #555;
-            color: white;
-        }
-    </style>
+  
 </head>
 <body>
 
